@@ -84,6 +84,7 @@ body {
 }
 #mainCarousel{
   background-color: #ededed;
+  padding: 15px 0px;
 }
 .slideanim {
   visibility: hidden;

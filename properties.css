@@ -1,0 +1,15 @@
+#coming_soon{
+  margin-top: 40px;
+  height: 500px;
+  background-color: #ededed;
+}
+#under_contract{
+  height: 500px;
+}
+#for_sale{
+  height: 500px;
+  background-color: #ededed;
+}
+#sold{
+  height: 500px;
+}
