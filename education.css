@@ -1,15 +1,20 @@
-#foreclosure{
+#knowledge_picture{
   margin-top: 40px;
   padding-top: 15px;
+}
+#knowledge_picture img{
+  height: 350px; width: 350px;
+}
+#foreclosure{
   height: 500px;
-  background-color: #ededed;
+  background-color: #EFEBDF;
 }
 #divorces{
   height: 500px;
 }
 #financial_hardship{
   height: 500px;
-  background-color: #ededed;
+  background-color: #EFEBDF;
 }
 #probate_or_inherited{
   height: 500px;
