@@ -46,7 +46,7 @@ body {
 }
 .first-carousel .carousel .item img{
   width: 80%;
-  margin: auto; 
+  margin: auto;
   max-height: 400px;
 }
 .first-carousel .carousel-caption{
@@ -133,49 +133,52 @@ body {
 }
 .fadeIn{
   animation-name: fadeIn;
-  -webkit-animation-name: fadeIn; 
+  -webkit-animation-name: fadeIn;
 
-  animation-duration: 1.5s; 
+  animation-duration: 1.5s;
   -webkit-animation-duration: 1.5s;
 
-  animation-timing-function: ease-in-out; 
-  -webkit-animation-timing-function: ease-in-out;   
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
 
-  visibility: visible !important; 
+  visibility: visible !important;
 }
 @keyframes fadeIn {
   0% {
     transform: scale(0);
-    opacity: 0.0;   
+    opacity: 0.0;
   }
   60% {
-    transform: scale(1.1);  
+    transform: scale(1.1);
   }
   80% {
     transform: scale(0.9);
-    opacity: 1; 
-  } 
+    opacity: 1;
+  }
   100% {
     transform: scale(1);
-    opacity: 1; 
-  }   
+    opacity: 1;
+  }
 }
 @-webkit-keyframes fadeIn {
   0% {
     -webkit-transform: scale(0);
-    opacity: 0.0;   
+    opacity: 0.0;
   }
   60% {
     -webkit-transform: scale(1.1);
   }
   80% {
     -webkit-transform: scale(0.9);
-    opacity: 1; 
-  } 
+    opacity: 1;
+  }
   100% {
     -webkit-transform: scale(1);
-    opacity: 1; 
-  }   
+    opacity: 1;
+  }
+}
+.segment h1{
+  font-family: 'Bitter', serif;
 }
 #how_it_works{
   height: 500px;
