@@ -9,11 +9,11 @@
   text-decoration: underline;
 }
 #coming_soon .container{
-  margin-left: 30px;
+  /*margin-left: 30px;
   margin-right: 30px;
-  margin-top: 10px;
+  margin-top: 10px;*/
 }
-#coming_soon .container p{
+#coming_soon p{
   margin: 0px;
   margin-left: 10px;
 }
